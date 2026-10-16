@@ -1,5 +1,5 @@
 {
-  "name": "pinoolavender",
+  "name": "pinoolavender-wbails",
   "type": "module",
   "version": "0.0.3",
   "publishConfig": {
@@ -15,10 +15,10 @@
     "wa-bot",
     "websocket"
   ],
-  "homepage": "https://github.com/pinoolavender/pinoolavender",
+  "homepage": "https://github.com/pinooo636-creator/pinoolavender-wbails",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pinoolavender/pinoolavender.git"
+    "url": "git+https://github.com/pinooo636-creator/pinoolavender-wbails.git"
   },
   "license": "MIT",
   "author": "pinoolavender",
